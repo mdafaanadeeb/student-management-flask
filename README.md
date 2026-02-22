@@ -1,7 +1,7 @@
 
 # Student Management System (Flask + SQLAlchemy)
 ## 🚀 Live Demo
-
+https://student-management-flask-2.onrender.com/login?next=%2F
 
 ## Overview
 A full-stack web-based Student Management System built using Flask, SQLAlchemy, and Flask-Login.
