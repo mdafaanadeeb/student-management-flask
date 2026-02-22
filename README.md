@@ -32,7 +32,7 @@ ORM-based Database Modeling
 3. python run.py
 
 ## Live Demo
-(Deployment Link Here)
+(https://student-management-flask-2.onrender.com/login?next=%2F)
 
 ## Author
 Afaan Adeeb
