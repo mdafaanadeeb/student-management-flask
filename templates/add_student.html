@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+
+<form method="POST">
+    <input name="name" class="form-control mb-2" placeholder="Name" required>
+    <input name="email" class="form-control mb-2" placeholder="Email" required>
+    <input name="branch" class="form-control mb-2" placeholder="Branch" required>
+    <input name="roll_no" class="form-control mb-2" placeholder="Roll No" required>
+    <input name="section" class="form-control mb-2" placeholder="Section" required>
+    <input name="gpa" class="form-control mb-2" placeholder="GPA" required>
+    <button class="btn btn-success">Add Student</button>
+</form>
+
+{% endblock %}
